@@ -1,0 +1,3 @@
+Model,Score,Best Parameters
+SVC,0.9760765550239234,"{'C': 1000, 'gamma': 0.001, 'kernel': 'rbf'}"
+Logistic Regression,1.0,"{'lr__C': 10, 'lr__penalty': 'l1', 'lr__solver': 'liblinear'}"
